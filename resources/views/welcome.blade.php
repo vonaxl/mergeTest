@@ -93,7 +93,7 @@
                     <a href="https://laravel.com/docs">Prova di Modifica senza consenso 4</a>
                     <a href="https://laracasts.com">Laracasts</a>
                     <a href="https://laravel-news.com">COAP</a>
-                    <a href="https://blog.laravel.com">Blog</a>
+                    <a href="https://blog.laravel.com">Bloghihihih</a>
                     <a href="https://nova.laravel.com">Nova</a>
                     <a href="https://forge.laravel.com">Mr 2803</a>
                     <a href="https://vapor.laravel.com">AXELciao</a>
